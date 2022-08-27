@@ -3,7 +3,7 @@ Repositorio de computación 8108 Sem. 2023-1
 
 En este repositorio encontrarás las diapositivas de clase, jupyter notebooks, archivos latex para la clase y alguno que otro recurso útil.
 
-El documento pdf de presentaación del curso lo puedes encontrar [aquí](https://drive.google.com/file/d/1An1g--usxlSSRL5izMurHfILedi40s_C/view?usp=sharing)
+El documento pdf de presentación del curso lo puedes encontrar [aquí](https://drive.google.com/file/d/1An1g--usxlSSRL5izMurHfILedi40s_C/view?usp=sharing)
 
 ### Blibliografía
 
